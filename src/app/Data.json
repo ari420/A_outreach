@@ -1,0 +1,1147 @@
+{
+  "routes": {
+    "Home": [
+      {
+        "id": "sec1",
+        "heading": "OUT REACH",
+        "description": "Granite is a specialized rope access firm for all styles of structures and unique access needs. We are the trusted name across Vancouver, Squamish, and neighbouring areas.",
+        "backgroundImage": "/Window_Cleaning_up-high2.jpg",
+        "logoBackground": "/logomid.svg",
+        "label": "SERVICES",
+        "link": "/services",
+        "label2": "REQUEST A QUOTE",
+        "link2": "#"
+      },
+      {
+        "id": "sec2",
+        "subHeading": "ROPE ACCESS SERVICES IN METRO VANCOUVER",
+        "heading": "WHY US?",
+        "paragraph": "When it comes to rope access building maintenance, Granite is above our competition across Vancouver and the Lower Mainland. We provide unmatched expertise in ‘at height’ tasks, offering full digital site safety documentation, insurance, and WCB coverage.",
+        "label": "LEARN MORE",
+        "link": "/services/Rope",
+        "image": "/imgtop.png",
+        "altImage": "photo"
+      },
+      {
+        "id": "sec3",
+        "heading": "SERVICES",
+        "paragraph": "Our services stand out by utilizing rope access systems that are innovative alternatives to traditional access methods. This approach allows us to tackle high and difficult-to-access areas with ease while maintaining an exemplary safety record. Our services stand out by utilizing rope access systems that are innovative alternatives to traditional access methods. This approach allows us to tackle high and difficult-to-access areas with ease while maintaining an exemplary safety record. Our services stand out by utilizing rope access systems that are innovative alternatives to traditional access methods. This approach allows us to tackle high and difficult-to-access areas with ease while maintaining an exemplary safety record."
+      },
+      {
+        "id": "sec4",
+        "heading": "HOW CAN WE HELP YOU",
+        "img1": {
+          "title": "Building Maintenance Services",
+          "link": "/services/Maintenance",
+          "image": "/IMG_3775.jpeg",
+          "altImage": "photo"
+        },
+        "img2": {
+          "title": "Building Envelope Services",
+          "link": "/services/Envelope",
+          "image": "/IMG_4913.jpg",
+          "altImage": "photo"
+        },
+        "img3": {
+          "title": "Rope Access Services",
+          "link": "/services/Rope",
+          "image": "/imgd.png",
+          "altImage": "photo"
+        }
+      },
+      {
+        "id": "sec5",
+        "heading": "OUR CLIENTS",
+        "subHeading": "COMPANIES WE ARE HAPPY TO SUPPORT",
+        "description": "We are happy to support companies big and small.",
+        "slider": [
+          { "id": "1", "img": "/sp1.png", "alt": "photo" },
+          { "id": "2", "img": "/sp2.jpg", "alt": "photo" },
+          { "id": "3", "img": "/sp3.png", "alt": "photo" },
+          { "id": "4", "img": "/sp4.png", "alt": "photo" },
+          { "id": "5", "img": "/sp5.jpg", "alt": "photo" },
+          { "id": "6", "img": "/sp6.png", "alt": "photo" },
+          { "id": "7", "img": "/sp7.png", "alt": "photo" },
+          { "id": "8", "img": "/sp8.png", "alt": "photo" }
+        ]
+      },
+      {
+        "id": "sec6",
+        "subHeading": "WE BELIEVE IN QUALITY",
+        "heading": "THE GRANITE GUARANTEES",
+        "list": [
+          {
+            "txt": "We only employ IRATA or SPRAT Technicians Technicians. Technicians. Technicians. Technicians. .",
+            "id": "1"
+          },
+          {
+            "txt": "We manage our jobsites with thorough digital safety documentation Technicians.Technicians.Technicians..",
+            "id": "2"
+          },
+          {
+            "txt": "We strive for transparent communication throughout your projectTechnicians..",
+            "id": "3"
+          },
+          {
+            "txt": "We honor our work with a 7-day deficiency reporting window Technicians..",
+            "id": "4"
+          },
+          {
+            "txt": "We respond to email and phone calls as soon as possible, within hours not days. Technicians.Technicians.Technicians.",
+            "id": "5"
+          }
+        ],
+        "backImage": "/about.jpg",
+        "logo": "/logomid.svg",
+        "altlogo": "logo"
+      }
+    ],
+
+    "aboutUs": [
+      {
+        "id": "sec1",
+        "title": "ABOUT US",
+        "backgroundImage": "/about.jpg",
+        "bgImgAlt": "photo"
+      },
+      {
+        "id": "sec2",
+        "title": "WHO WE ARE",
+        "subtitle": "GRANITE PROPERTY SERVICES: THE PREFERRED CHOICE IN METRO VANCOUVER",
+        "content": [
+          {
+            "txt": "Exclusively catering to Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby, Granite Property Services stands out as the premier all-inclusive yearly envelope property maintenance and rope access contractor. Employing top-tier industry techniques, we consistently deliver unparalleled results across the region.",
+            "id": "1"
+          },
+          {
+            "txt": "From our advanced water pumps and filtration systems for sparkling windows to utilizing sodium hypochlorite for combating heavily stained siding, our methodologies are trusted throughout Vancouver and its suburbs. Where traditional hand cleaning falls short, we step in, ensuring your building’s fascia remains pristine and undamaged. And of course, our expertise in the classic squeegee and soapy water approach remains unmatched.",
+            "id": "2"
+          },
+          {
+            "txt": "A decade deep in rope access across the Vancouver districts, we’re primed for any project, no matter its scale or complexity. Our skilled team, with an intense focus on precision and detail, reigns supreme, especially in specialties like window cleaning or glazing. For us, your property is as precious as our own.",
+            "id": "3"
+          },
+          {
+            "txt": "A decade deep in rope access across the Vancouver districts, we’re primed for any project, no matter its scale or complexity. Our skilled team, with an intense focus on precision and detail, reigns supreme, especially in specialties like window cleaning or glazing. For us, your property is as precious as our own.",
+            "id": "4"
+          }
+        ],
+        "image": "/aboutSec2.jpg",
+        "alt": "photo",
+        "background": "/cartographer.png"
+      },
+      {
+        "id": "sec3",
+        "title": "WHAT WE DO",
+        "subtitle": "THE VANCOUVER ROPE ACCESS REVOLUTION",
+        "content": [
+          {
+            "txt": "Exclusively catering to Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby, Granite Property Services stands out as the premier all-inclusive yearly envelope property maintenance and rope access contractor. Employing top-tier industry techniques, we consistently deliver unparalleled results across the region.",
+            "id": "1"
+          },
+          {
+            "txt": "From our advanced water pumps and filtration systems for sparkling windows to utilizing sodium hypochlorite for combating heavily stained siding, our methodologies are trusted throughout Vancouver and its suburbs. Where traditional hand cleaning falls short, we step in, ensuring your building’s fascia remains pristine and undamaged. And of course, our expertise in the classic squeegee and soapy water approach remains unmatched.",
+            "id": "2"
+          },
+          {
+            "txt": "A decade deep in rope access across the Vancouver districts, we’re primed for any project, no matter its scale or complexity. Our skilled team, with an intense focus on precision and detail, reigns supreme, especially in specialties like window cleaning or glazing. For us, your property is as precious as our own.",
+            "id": "3"
+          }
+        ],
+        "image": "/aboutSec3.jpg",
+        "alt": "photo",
+        "background": "/aboutSec3Bg.jpeg"
+      },
+      {
+        "id": "sec4",
+        "title": "SAFETY FIRST",
+        "subtitle": "PEACE OF MIND ACROSS METRO VANCOUVER",
+        "content": [
+          {
+            "txt": "Exclusively catering to Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby, Granite Property Services stands out as the premier all-inclusive yearly envelope property maintenance and rope access contractor. Employing top-tier industry techniques, we consistently deliver unparalleled results across the region.",
+            "id": "1"
+          },
+          {
+            "txt": "From our advanced water pumps and filtration systems for sparkling windows to utilizing sodium hypochlorite for combating heavily stained siding, our methodologies are trusted throughout Vancouver and its suburbs. Where traditional hand cleaning falls short, we step in, ensuring your building’s fascia remains pristine and undamaged. And of course, our expertise in the classic squeegee and soapy water approach remains unmatched.",
+            "id": "2"
+          }
+        ],
+        "logoImage": "/logomid.svg",
+        "alt": "photo",
+        "background": "/aboutSec4.jpg"
+      },
+      {
+        "id": "sec5",
+        "title": "GET TO KNOW US",
+        "subtitle": "THE GRANITE TEAM",
+        "toptxt": "IRATA III - OWNER",
+        "maintxt": "ZACKERY HRABARCHUK",
+        "content": [
+          {
+            "txt": "Exclusively catering to Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby, Granite Property Services stands out as the premier all-inclusive yearly envelope property maintenance and rope access contractor. Employing top-tier industry techniques, we consistently deliver unparalleled results across the region.",
+            "id": "1"
+          },
+          {
+            "txt": "From our advanced water pumps and filtration systems for sparkling windows to utilizing sodium hypochlorite for combating heavily stained siding, our methodologies are trusted throughout Vancouver and its suburbs. Where traditional hand cleaning falls short, we step in, ensuring your building’s fascia remains pristine and undamaged. And of course, our expertise in the classic squeegee and soapy water approach remains unmatched.",
+            "id": "2"
+          },
+          {
+            "txt": "A decade deep in rope access across the Vancouver districts, we’re primed for any project, no matter its scale or complexity. Our skilled team, with an intense focus on precision and detail, reigns supreme, especially in specialties like window cleaning or glazing. For us, your property is as precious as our own.",
+            "id": "3"
+          }
+        ],
+        "image": "/aboutSec5.jpeg",
+        "alt": "photo",
+        "backgroundColor": "lightGreen"
+      },
+      {
+        "id": "sec6",
+        "title": "Meet Our Team",
+        "team": [
+          {
+            "id": "1",
+            "name": "JEREMY KURTZ",
+            "role": "GROUND TECHNICIAN",
+            "image": "/about.jpg",
+            "alt": "photo"
+          },
+          {
+            "id": "2",
+            "name": "MARCOS RODRIGUEZ",
+            "role": "IRATA III - SUPERVISOR",
+            "alt": "photo",
+            "image": "/logomid.svg"
+          },
+          {
+            "id": "3",
+            "name": "MARCOS RODRIGUEZ",
+            "role": "IRATA III - SUPERVISOR",
+            "alt": "photo",
+            "image": "/logomid.svg"
+          },
+          {
+            "id": "4",
+            "name": "MARCOS RODRIGUEZ",
+            "role": "IRATA III - SUPERVISOR",
+            "alt": "photo",
+            "image": "/logomid.svg"
+          }
+        ]
+      }
+    ],
+
+    "blogs": [
+      {
+        "id": 1,
+        "slug": "blog1",
+        "title": "Unleashing the Power1",
+        "date": "August 22, 2024",
+        "categories": ["Photos", "Service Promise", "Staff"],
+        "image": "/aboutSec2.jpg",
+        "txt": [
+          {
+            "id": "1",
+            "tupic": "lorem2",
+            "content": "Detailed content for this blog post goes here..."
+          },
+          {
+            "id": "2",
+            "tupic": "lorem2",
+            "content": "Detailed content for this blog post goes here..."
+          },
+          {
+            "id": "3",
+            "tupic": "lorem2",
+            "content": "Detailed content for this blog post goes here..."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "slug": "blog2",
+        "title": "Unleashing the Power2",
+        "date": "June 23, 2023",
+        "categories": ["Community", "Staff"],
+        "image": "/aboutSec3.jpg",
+        "txt": [
+          {
+            "id": "1",
+            "tupic": "lorem2",
+            "content": "Detailed content for this blog post goes here..."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "slug": "blog3",
+        "title": "Unleashing the Power3",
+        "date": "August 22, 2024",
+        "categories": ["Photos", "Service Promise", "Staff"],
+        "image": "/aboutSec2.jpg",
+        "txt": [
+          {
+            "id": "1",
+            "tupic": "lorem2",
+            "content": "Detailed content for this blog post goes here..."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "slug": "blog4",
+        "title": "Unleashing the Power4",
+        "date": "June 23, 2023",
+        "categories": ["Community", "Staff"],
+        "image": "/aboutSec3.jpg",
+        "txt": [
+          {
+            "id": "1",
+            "tupic": "lorem2",
+            "content": "Detailed content for this blog post goes here..."
+          }
+        ]
+      }
+    ],
+
+    "careers": [
+      {
+        "id": "sec1",
+        "heading": "CAREERS",
+        "alt": "photo",
+        "backgroundImage": "/creear.png"
+      },
+      {
+        "id": "sec2",
+        "subHeading": "NO POSITIONS AVAILABLE",
+        "heading": "WE AREN'T CURRENTLY LOOKING TO FILL ANY POSITIONS",
+        "paragraph": "No specific job postings? We’re always looking. For the right candidate we’re willing to go out of the way to make room. Hard working, dedicated, intelligent individuals don’t come around every day and we fully realize that. Fill out the form below to apply."
+      },
+      {
+        "id": "sec3",
+        "heading": "APPLY NOW",
+        "backgroundImage": "/cartographer.png",
+        "form": {
+          "inputs": [
+            {
+              "type": "text",
+              "id": "inp1",
+              "placeholder": "Your Full Name (required)"
+            },
+            {
+              "type": "text",
+              "id": "inp2",
+              "placeholder": "Your Email (required)"
+            },
+            {
+              "type": "text",
+              "id": "inp3",
+              "placeholder": "Your Number (required)"
+            },
+            {
+              "type": "text",
+              "id": "inp4",
+              "placeholder": "Your Address (required)"
+            },
+            {
+              "type": "file",
+              "id": "inp5",
+              "placeholder": "Upload Your Resume"
+            }
+          ],
+          "textarea": {
+            "id": "message-area",
+            "placeholder": "Enter your message here"
+          },
+          "button": {
+            "label": "SUBMIT"
+          }
+        },
+        "image": "/blog.jpg",
+        "alt": "photo"
+      }
+    ],
+
+    "contactUs": [
+      {
+        "id": "sec1",
+        "heading": "CONTACT US",
+        "Image": "/contact.jpg",
+        "alt": "photo"
+      }
+    ],
+
+    "footer": [
+      {
+        "backgroundImage": "/cartographer.png",
+        "logoImage": "/logofoot.svg",
+        "logoAlt": "photo"
+      },
+      {
+        "heading": "HELPFUL-LINKS",
+        "links": [
+          { "label": "HOME", "link": "/", "id": "1" },
+          { "label": "ABOUT", "link": "/about", "id": "2" },
+          { "label": "SERVICES", "link": "/services", "id": "3" },
+          { "label": "CONTACT US", "link": "/contactUs", "id": "4" },
+          { "label": "CAREERS", "link": "/careers", "id": "5" }
+        ]
+      },
+      {
+        "heading": "SERVICES",
+        "links": [
+          { "id": "1", "label": "BUILDING ENVELOPE SERVICES", "link": "" },
+          { "id": "2", "label": "BUILDING MAINTENANCE SERVICES", "link": "" },
+          { "id": "3", "label": "ROPE ACCESS SERVICES", "link": "" }
+        ]
+      },
+      {
+        "heading": "LOCATION",
+        "address": "40330 GOVERNMENT RD - UNIT 2, SQUAMISH BC, V0N 1T0",
+        "phone": "604 848 5033",
+        "Links": [
+          { "id": "1", "link": "", "icon": "fa-brands fa-facebook-f" },
+          { "id": "2", "link": "", "icon": "fa-brands fa-instagram" },
+          { "id": "3", "link": "", "icon": "fa-brands fa-x-twitter" },
+          { "id": "4", "link": "", "icon": "fa-brands fa-linkedin-in" }
+        ]
+      },
+      {
+        "text": "BUILT AND DEVELOPED IN 2025",
+        "text2": "DESIGNED & BUILT BY_",
+        "name": "ARI STUDIO",
+        "link": "https://github.com/ari420"
+      }
+    ],
+
+    "header": [
+      {
+        "logo": "/MainLogo.svg",
+        "Alt": "logo",
+        "lableEmail": "Gmail Us",
+        "email": "david.guil@gmail.com",
+        "lablePhone": "Call Us",
+        "phone": "605 849 7586",
+        "Quet": "GET A QUOTE",
+        "Qrout": "/?scrollTo=requestUs"
+      },
+      {
+        "menuItems": [
+          {
+            "text": "HOME",
+            "link": "/"
+          },
+          {
+            "text": "ABOUT",
+            "link": "/about"
+          },
+          {
+            "text": "SERVICES",
+            "link": "/services",
+            "submenu": [
+              {
+                "text": "BUILDING MAINTENANCE SERVICES",
+                "link": "/services/Maintenance",
+                "submenu": [
+                  {
+                    "text": "WINDOW CLEANING",
+                    "link": "/services/Maintenance/Window"
+                  },
+                  {
+                    "text": "PEWSSURE WASHING",
+                    "link": "/services/Maintenance/Pressure"
+                  },
+                  {
+                    "text": "DRYER DUCT CLEANING",
+                    "link": "/services/Maintenance/Dryer"
+                  }
+                ]
+              },
+              {
+                "text": "BUILDING ENVELOPE SERVICES",
+                "link": "/services/Envelope",
+                "submenu": [
+                  {
+                    "text": "PAINTING SERVICES",
+                    "link": "/services/Envelope/Painting"
+                  },
+                  {
+                    "text": "CAULKING SERVICES",
+                    "link": "/services/Envelope/Caulking"
+                  },
+                  {
+                    "text": "WATERPROOFINNG SERVICES",
+                    "link": "/services/Envelope/Waterproofing"
+                  }
+                ]
+              },
+              {
+                "text": "ROPE ACCESS SERVICES",
+                "link": "/services/Rope",
+                "submenu": [
+                  {
+                    "text": "ANCHOR INSPECTION",
+                    "link": "/services/Rope/Anchor"
+                  },
+                  {
+                    "text": "PHOTO REPORTING",
+                    "link": "/services/Rope/Photo"
+                  },
+                  {
+                    "text": "STAND-BY RESCUE",
+                    "link": "/services/Rope/StandBy"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CAREERS",
+            "link": "/careers"
+          },
+          {
+            "text": "BLOG",
+            "link": "/blog"
+          },
+          {
+            "text": "CONTACT US",
+            "link": "/contactUs"
+          }
+        ]
+      }
+    ],
+
+    "services": [
+      {
+        "bgmainImage": "/creear.png",
+        "alt": "photo"
+      },
+      {
+        "id": "sec1",
+        "text": "SERVICES",
+        "alt": "photo",
+        "src": "/contact.jpg"
+      },
+      {
+        "id": "sec2",
+        "parts": [
+          {
+            "src": "/imgtop.png",
+            "alt": "photo",
+            "heading": "BUILDING MAINTENANCE SERVICES",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit consequatur veniam iusto, aliquid consequuntur laborum maxime aspernatur placeat architecto numquam et libero, hic veritatis asperiores, reiciendis earum quidem vitae corrupti!",
+            "btntxt": "LEARN MORE",
+            "btnroute": "/services/Maintenance"
+          },
+          {
+            "src": "/imgtop.png",
+            "alt": "photo",
+            "heading": "BUILDING ENVELOPE SERVICES",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, qui! Nemo reprehenderit aut dolore cum alias deserunt voluptate hic aliquid, dolorem, voluptatum doloribus id eum facere vel vero ea eligendi?",
+            "btntxt": "LEARN MORE",
+            "btnroute": "/services/Envelope"
+          },
+          {
+            "src": "/imgtop.png",
+            "alt": "photo",
+            "heading": "ROPE ACCESS SERVICES",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, qui! Nemo reprehenderit aut dolore cum alias deserunt voluptate hic aliquid, dolorem, voluptatum doloribus id eum facere vel vero ea eligendi?",
+            "btntxt": "LEARN MORE",
+            "btnroute": "/services/Rope"
+          }
+        ]
+      },
+      {
+        "id": "sec3",
+        "title": "WHAT WE DO",
+        "heading": "MAINTENANCE ELEVATED",
+        "text": "Our rope access technicians are IRATA / SPRAT certified, and we employ above and beyond industry standard safety practices. We utilize digital safety documentation software as well as group communication applications for extra layers of commitment to safety and organization to ensure your project goes smoothly.",
+        "src": "/creear.png",
+        "alt": "photo"
+      },
+      {
+        "id": "sec4",
+        "title": "THE GRANITE GUARANTEE",
+        "heading": "CERTIFIED AND INSURED",
+        "list": [
+          { "txt": "We only employ IRATA or SPRAT Technicians.", "id": "1" },
+          {
+            "txt": "We manage our jobsites with thorough digital safety documentation.",
+            "id": "2"
+          },
+          { "txt": "We strive for transparent communication.", "id": "3" },
+          {
+            "txt": "We honor our work with a 7-day deficiency reporting window. lorem ipsom",
+            "id": "4"
+          },
+          {
+            "txt": "We honor our work with a 7-day deficiency reporting window.",
+            "id": "5"
+          },
+          {
+            "txt": "We honor our work with a 7-day deficiency reporting window. lorem ipsom",
+            "id": "6"
+          }
+        ],
+        "src": "/logomid.svg",
+        "alt": "company logo"
+      }
+    ],
+
+    "request": [
+      {
+        "heading": "CONTACT US",
+        "description": "GET IN TOUCH FOR AN ESTIMATE",
+        "image": "/aboutSec3.jpg",
+        "alt": "photo",
+        "inputs": [
+          {
+            "type": "text",
+            "id": "inp1",
+            "placeholder": "Your Name (required)"
+          },
+          {
+            "type": "text",
+            "id": "inp2",
+            "placeholder": "Your Email (required)"
+          },
+          {
+            "type": "text",
+            "id": "inp3",
+            "placeholder": "Your Phone Number (required)"
+          },
+          {
+            "type": "text",
+            "id": "inp4",
+            "placeholder": "Your Address (required)"
+          },
+          {
+            "id": "message",
+            "placeholder": "Enter your message here"
+          }
+        ],
+        "button": {
+          "label": "SUBMIT REQUEST"
+        }
+      }
+    ],
+
+    "maintenance": [
+      {
+        "id": "sec1",
+        "title": "BUILDING MAINTENANCE SERVICES",
+        "image": "/contact.jpg",
+        "imageAlt": "photo"
+      },
+      {
+        "id": "sec2",
+        "image": "/aboutSec3.jpg",
+        "title": "WHAT IS IT",
+        "heading": "BUILDING MAINTENANCE SERVICES: TAKING PROPER CARE OF YOUR INVESTMENT",
+        "description": [
+          "We offer a range of building maintenance services; it is impossible to list them all, but they all have one thing in common: Our health and safety practices, quality, and attention to detail are unmatched.",
+          "Because of the other expansive and complex services we offer as a rope access firm, we are miles ahead of competitors in the humble building maintenance services sector. When was the last time you had a window cleaning contractor arrive at your facility with all gear tagged, digital safety documentation prepared daily, and a robust Health and Safety document?",
+          "We grow as a company based on the workmanship of our last job.",
+          "Come find out why we are client-recommended and why we’ve performed work for the same clients year after year for six years."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec3",
+        "title": "WHAT WE DO",
+        "items": [
+          {
+            "title": "Window Cleaning",
+            "image": "/IMG_3775.jpeg",
+            "link": "/services/Maintenance/Window"
+          },
+          {
+            "title": "Pressure Washing",
+            "image": "/IMG_4913.jpg",
+            "link": "/services/Maintenance/Pressure"
+          },
+          {
+            "title": "Dryer Duct Cleaning",
+            "image": "/imgd.png",
+            "link": "/services/Maintenance/Dryer"
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "image": "/aboutSec2.jpg",
+        "title": "WHAT IS IT",
+        "heading": "WINDOW CLEANING",
+        "description": [
+          "We offer comprehensive window cleaning services for different needs, ranging from Traditional Window Cleaning methods ideal for high-rise and low-rise buildings to advanced Waterfed Pole Cleaning for spotless results thanks to modern water filtration technology.",
+          "Additionally, we provide specialized restorative cleaning services for scenarios where standard cleaning won’t suffice, such as Post-Construction/Restorative Cleaning or when dealing with non-water soluble debris."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec5",
+        "image": "/aboutSec2.jpg",
+        "title": "WHAT IS IT",
+        "heading": "PRESSURE WASHING",
+        "description": [
+          "Our pressure washing services meet all cleaning needs. High-pressure washing offers a dramatic space transformation using cold municipal water.",
+          "Low-pressure washing is best for delicate surfaces or when water pressure alone won’t suffice. This method often includes a chemical agent for effective cleaning."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec6",
+        "image": "/aboutSec2.jpg",
+        "title": "WHAT IS IT",
+        "heading": "ADDITIONAL SERVICES",
+        "description": [
+          "Our team also provides a range of other specialized maintenance services, which include cleaning of HVAC systems, pest control, and general building maintenance."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      }
+    ],
+    "window": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "WINDOW CLEANING"
+      },
+      {
+        "id": "sec2",
+        "image": "/aboutSec2.jpg",
+        "sub_heading": "WHAT IS IT",
+        "heading": "PREMIER WINDOW CLEANING SOLUTIONS IN METRO VANCOUVER",
+        "paragraphs": [
+          "Whether it’s a towering high-rise in downtown Vancouver or a quaint low-rise in North Vancouver, our window cleaning services cater to structures of every height. Utilizing traditional methods, we champion the unbeatable combination of soap, water, and a squeegee, ensuring cost-effectiveness while upholding unmatched quality. For architecturally complex structures in places like Surrey and Coquitlam, our advanced filtration system coupled with a water-fed pole emerges as the optimal solution. Buildings with accumulated grime in West Vancouver and Burnaby will particularly benefit from our water-fed pole technique, ensuring not just the glass but also the frames are spotlessly clean. We’re here to discuss the best approach tailored to your needs."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "motion_image": "/aboutSec2.jpg",
+        "sub_heading": "WHAT IS IT",
+        "heading": "REVOLUTIONARY WATERFED POLE CLEANING",
+        "paragraphs": [
+          "Venture beyond the conventional with our state-of-the-art waterfed pole cleaning services. While many may rely solely on standard soap-water techniques, we integrate the latest filtration systems to ensure crystal clear results across Vancouver, North Vancouver, Surrey, and beyond. Even the pristine waters of Vancouver can sometimes leave undesired residues. That’s where our filtration system shines, producing results that often surpass hand cleaning. While many contractors might offer waterfed pole cleaning as a quick, discounted solution, our use of specialized filtration ensures unparalleled brilliance. Ideal for residences in Coquitlam, Burnaby, and West Vancouver, our waterfed pole system is the gold standard for low-rise structures."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "pressure": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "PRESSURE WASHING"
+      },
+      {
+        "id": "sec2",
+        "image": "/aboutSec2.jpg",
+        "sub_heading": "WHAT IS IT",
+        "heading": "PROFESSIONAL PRESSURE WASHING IN METRO VANCOUVER",
+        "paragraphs": [
+          "REVITALIZE YOUR PROPERTY WITH PRESSURE WASHING PRESSURE WASHING SERVICES",
+          "From Vancouver to Burnaby, Coquitlam, North Vancouver, Surrey, and West Vancouver, every property owner understands the toll our climate can take on building exteriors. Over time, grime, dirt, and organics can degrade surfaces, affecting not only aesthetics but also the structural integrity of properties. This is where professional pressure washing steps in.",
+          "Pressure washing stands out as an economical solution to enhance your property’s appearance, boosting curb appeal and potentially warding off costly damages or repainting tasks. By effectively removing the build-up of organic matter, you can prolong the life and vibrancy of your property’s surfaces.",
+          "However, a word of caution: while powerful and effective, pressure washing in inexperienced hands can be detrimental. The use of specific tools like the 15-degree or rotary nozzle requires utmost precision and knowledge to prevent damages.",
+          "That’s why it’s imperative to engage with a seasoned contractor familiar with both the rewards and constraints of pressure washing. At Granite, we pride ourselves on our expertise in delivering top-tier pressure washing services tailored to your property’s unique needs, ensuring a safe and stellar result every time. Choose experience; choose quality."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "dryer": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "DRYER DUCT CLEANING"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "YOUR SAFETY, OUR PRIORITY DRYER DUCT CLEANING",
+        "heading": "PREMIUM DRYER DUCT CLEANING SERVICES IN METRO VANCOUVER",
+        "paragraphs": [
+          "Ensure the safety and efficiency of your home or business in Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby with our top-tier Dryer Duct Cleaning services. We employ advanced exterior reverse blow air cleaning, utilizing industry-standard vent cleaning hoses tailored to your building’s needs. With capabilities to safely reach up to thirty feet into duct systems, we ensure the thorough removal of lint accumulations and other obstructing debris.",
+          "Annually in North America, a staggering 17,000 fires are linked to unkempt dryer vent ducts. Prioritize this service not just for a vital fire prevention measure but also to avert potential water leak expenses. Blocked vents that fail to vent out the damp air eventually condense moisture, leading to rusting and, ultimately, water leakage. The repair costs from damage in just one unit of a multi-dwelling structure, like a high-rise, can equate to what you might have spent on cleaning the ducts for the entire building. Opt for prevention and ensure long-term savings."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/aboutSec3.jpg",
+        "sub_heading": "WHAT WE DO",
+        "heading": "INTENSIVE COMBINATION CLEAN",
+        "paragraphs": [
+          "For those duct systems in Vancouver and surrounding areas that have seen years of neglect and can’t be accessed solely from the outside, our specialized Combination Clean comes to the rescue. This thorough method combines the force of an interior high-powered air-stream with the expertise of our technicians externally employing a reverse blow, ensuring the tract is impeccably clear. This dual-approach is our go-to for residential homes across Surrey, Coquitlam, Burnaby, and beyond, guaranteeing safety and efficiency in every service call."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "envelope": [
+      {
+        "id": "sec1",
+        "title": "BUILDING ENVELOPE SERVICES",
+        "image": "/contact.jpg",
+        "imageAlt": "photo"
+      },
+      {
+        "id": "sec2",
+        "image": "/about.jpg",
+        "title": "BUILDING ENVELOPE SERVICES",
+        "heading": "BUILDING ENVELOPE SERVICES: A FOUNDATION OF PROTECTION",
+        "description": [
+          "A building envelope consists of the coatings and structures engineered to keep the inside in and the outside out. Many coatings and systems work together to achieve this end result, but they must be maintained and sometimes repaired.",
+          "We are knowledgeable about these systems and the foundation on which they are built. As experts in the industry, we can handle concrete and rebar repairs before coating applications, either in small localized patches or entire structures. A benefit of working with us is that we are a full-delivery firm. We can handle your project from preparation through to final clean delivery.",
+          "All projects are staffed and managed by us. We won’t rely on several subcontractors to get the job done and are wholly dependable to you."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec3",
+        "title": "WHAT WE DO",
+        "items": [
+          {
+            "title": "Painting Services",
+            "image": "/IMG_3775.jpeg",
+            "link": "/services/Envelope/Painting"
+          },
+          {
+            "title": "Caulking Services",
+            "image": "/IMG_4913.jpg",
+            "link": "/services/Envelope/Caulking"
+          },
+          {
+            "title": "Waterproofing Services",
+            "image": "/imgd.png",
+            "link": "/services/Envelope/Waterproofing"
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "image": "/about.jpg",
+        "title": "BUILDING ENVELOPE SERVICES",
+        "heading": "PAINTING SERVICES",
+        "description": [
+          "Our painting services ensure a long-lasting protective finish for your building. We specialize in both interior and exterior painting, and we use high-quality paints and coatings to ensure a perfect finish. Our team works efficiently to minimize disruption and provide the best results."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec5",
+        "image": "/about.jpg",
+        "title": "BUILDING ENVELOPE SERVICES",
+        "heading": "CAULKING SERVICES",
+        "description": [
+          "Our caulking services offer superior sealing for all joints and seams in your building envelope. We use industry-leading materials and techniques to provide long-lasting, water-resistant, and airtight seals."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec6",
+        "image": "/about.jpg",
+        "title": "BUILDING ENVELOPE SERVICES",
+        "heading": "WATERPROOFING SERVICES",
+        "description": [
+          "Waterproofing is a critical component of building maintenance. Our waterproofing services protect your building from water damage, enhancing longevity and structural integrity. We offer both surface and below-ground waterproofing solutions."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      }
+    ],
+    "painting": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "PAINTING SERVICES"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "WHAT IS IT",
+        "heading": "PAINTING SERVICES CLEANING SOLUTIONS IN METRO VANCOUVER",
+        "paragraphs": [
+          "EXPERIENCE THE CLARITY WINDOW CLEANING SERVICES",
+          "Whether it’s a towering high-rise in downtown Vancouver or a quaint low-rise in North Vancouver, our window cleaning services cater to structures of every height. Utilizing traditional methods, we champion the unbeatable combination of soap, water, and a squeegee, ensuring cost-effectiveness while upholding unmatched quality. For architecturally complex structures in places like Surrey and Coquitlam, our advanced filtration system coupled with a water-fed pole emerges as the optimal solution. Buildings with accumulated grime in West Vancouver and Burnaby will particularly benefit from our water-fed pole technique, ensuring not just the glass but also the frames are spotlessly clean. We’re here to discuss the best approach tailored to your needs."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/imgtop.png",
+        "sub_heading": "PAINTING SERVICES POLE CLEANING",
+        "heading": "Venture beyond the conventional with our state-of-the-art waterfed pole cleaning services.",
+        "paragraphs": [
+          "While many may rely solely on standard soap-water techniques, we integrate the latest filtration systems to ensure crystal clear results across Vancouver, North Vancouver, Surrey, and beyond. Even the pristine waters of Vancouver can sometimes leave undesired residues. That’s where our filtration system shines, producing results that often surpass hand cleaning. While many contractors might offer waterfed pole cleaning as a quick, discounted solution, our use of specialized filtration ensures unparalleled brilliance. Ideal for residences in Coquitlam, Burnaby, and West Vancouver, our waterfed pole system is the gold standard for low-rise structures."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "caulking": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "CAULKING SERVICES"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "YOUR SAFETY, OUR PRIORITY CAULKING SERVICES",
+        "heading": "CAULKING SERVICES CLEANING SERVICES IN METRO VANCOUVER",
+        "paragraphs": [
+          "REVITALIZE YOUR PROPERTY WITH CAULKING SERVICES SERVICES",
+          "Ensure the safety and efficiency of your home or business in Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby with our top-tier Dryer Duct Cleaning services. We employ advanced exterior reverse blow air cleaning, utilizing industry-standard vent cleaning hoses tailored to your building’s needs. With capabilities to safely reach up to thirty feet into duct systems, we ensure the thorough removal of lint accumulations and other obstructing debris.",
+          "Annually in North America, a staggering 17,000 fires are linked to unkempt dryer vent ducts. Prioritize this service not just for a vital fire prevention measure but also to avert potential water leak expenses. Blocked vents that fail to vent out the damp air eventually condense moisture, leading to rusting and, ultimately, water leakage. The repair costs from damage in just one unit of a multi-dwelling structure, like a high-rise, can equate to what you might have spent on cleaning the ducts for the entire building. Opt for prevention and ensure long-term savings."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/aboutSec3.jpg",
+        "sub_heading": "WHAT WE DO",
+        "heading": "CAULKING SERVICES",
+        "paragraphs": [
+          "For those duct systems in Vancouver and surrounding areas that have seen years of neglect and can’t be accessed solely from the outside, our specialized Combination Clean comes to the rescue. This thorough method combines the force of an interior high-powered air-stream with the expertise of our technicians externally employing a reverse blow, ensuring the tract is impeccably clear. This dual-approach is our go-to for residential homes across Surrey, Coquitlam, Burnaby, and beyond, guaranteeing safety and efficiency in every service call."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "waterproofing": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "WATERPROOFING SERVICES"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "WHAT IS IT",
+        "heading": "WATERPROOFING SERVICES CLEANING SOLUTIONS IN METRO VANCOUVER",
+        "paragraphs": [
+          "EXPERIENCE THE CLARITY WINDOW CLEANING SERVICES",
+          "Whether it’s a towering high-rise in downtown Vancouver or a quaint low-rise in North Vancouver, our window cleaning services cater to structures of every height. Utilizing traditional methods, we champion the unbeatable combination of soap, water, and a squeegee, ensuring cost-effectiveness while upholding unmatched quality. For architecturally complex structures in places like Surrey and Coquitlam, our advanced filtration system coupled with a water-fed pole emerges as the optimal solution. Buildings with accumulated grime in West Vancouver and Burnaby will particularly benefit from our water-fed pole technique, ensuring not just the glass but also the frames are spotlessly clean. We’re here to discuss the best approach tailored to your needs."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/imgtop.png",
+        "sub_heading": "WHAT IS IT",
+        "heading": "WATERPROOFING SERVICES POLE CLEANING",
+        "paragraphs": [
+          "Venture beyond the conventional with our state-of-the-art waterfed pole cleaning services. While many may rely solely on standard soap-water techniques, we integrate the latest filtration systems to ensure crystal clear results across Vancouver, North Vancouver, Surrey, and beyond. Even the pristine waters of Vancouver can sometimes leave undesired residues. That’s where our filtration system shines, producing results that often surpass hand cleaning.",
+          "While many contractors might offer waterfed pole cleaning as a quick, discounted solution, our use of specialized filtration ensures unparalleled brilliance. Ideal for residences in Coquitlam, Burnaby, and West Vancouver, our waterfed pole system is the gold standard for low-rise structures."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "rope": [
+      {
+        "id": "sec1",
+        "title": "ROPE ACCESS SERVICES",
+        "image": "/contact.jpg",
+        "imageAlt": "photo"
+      },
+      {
+        "id": "sec2",
+        "image": "/aboutSec2.jpg",
+        "title": "ROPE ACCESS SERVICES",
+        "heading": "ROPE ACCESS SERVICES: UNPARALLELED EXPERTISE ACROSS METRO VANCOUVER",
+        "description": [
+          "In the dynamic skyline of cities from Vancouver, North Vancouver, West Vancouver to Surrey, Coquitlam, and Burnaby, efficient and secure work-at-height solutions are pivotal. Enter Rope Access. Rope Access isn’t merely a method—it’s an art and a science combined.",
+          "This cost-effective approach doesn’t just give access to challenging areas; it provides flexibility, allowing professionals to move omnidirectionally, self-rescue, deftly position heavy equipment, and so much more. A vital distinction needs to be made here: Rope Access is a galaxy apart from the limited scope of unlicensed Bosun’s Chair work, which significantly restricts mobility and functionality."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope"
+        }
+      },
+      {
+        "id": "sec3",
+        "title": "WHAT WE DO",
+        "items": [
+          {
+            "title": "Anchor Inspection",
+            "image": "/IMG_3775.jpeg",
+            "link": "/services/Rope/Anchor"
+          },
+          {
+            "title": "Photo Reporting",
+            "image": "/IMG_4913.jpg",
+            "link": "/services/Rope/Photo"
+          },
+          {
+            "title": "Stand-By Rescue",
+            "image": "/imgd.png",
+            "link": "/services/Rope/StandBy"
+          }
+        ]
+      },
+      {
+        "id": "sec4",
+        "image": "/aboutSec2.jpg",
+        "title": "ROPE ACCESS SERVICES",
+        "heading": "ANCHOR INSPECTION",
+        "description": [
+          "Through our strong partnerships and years of experience, Granite offers detailed Anchor Inspection services. We cover yearly assessments and evaluations for new installations. Our deep knowledge of anchor techniques allows us to perform both permanent and temporary setups, ensuring safe access for crews in difficult locations while maintaining top safety and structural standards."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope/Anchor"
+        }
+      },
+      {
+        "id": "sec5",
+        "image": "/aboutSec2.jpg",
+        "title": "ROPE ACCESS SERVICES",
+        "heading": "PHOTO REPORTING",
+        "description": [
+          "At Granite, we understand the importance of accurate documentation and offer comprehensive Photo Reporting services tailored to fit your project’s specific needs. Whether you require a basic visual record or more detailed reporting with markups, we’ve got you covered. Our advanced photo reporting is particularly beneficial for collaborations with engineering firms, providing invaluable assistance in the creation of depreciation reports and other technical documentation."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope/Photo"
+        }
+      },
+      {
+        "id": "sec6",
+        "image": "/aboutSec2.jpg",
+        "title": "ROPE ACCESS SERVICES",
+        "heading": "STAND-BY RESCUE",
+        "description": [
+          "At Granite, we specialize in providing top-notch Stand-By Rescue services, equipped with high-angle tripods and an array of anchorage options. This allows us to install systems precisely where necessary, ensuring your job site runs safely and smoothly. Understanding the unpredictable nature of on-call demands, we prioritize open communication with our clients to tailor our services to their specific needs."
+        ],
+        "button": {
+          "label": "LEARN MORE",
+          "link": "/services/Rope/StandBy"
+        }
+      }
+    ],
+    "anchorInspection": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "ANCHOR INSPECTION"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "YOUR SAFETY, OUR PRIORITY ANCHOR INSPECTION",
+        "heading": "ANCHOR INSPECTION CLEANING SERVICES IN METRO VANCOUVER",
+        "paragraphs": [
+          "REVITALIZE YOUR PROPERTY WITH ANCHOR INSPECTION",
+          "Ensure the safety and efficiency of your home or business in Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby with our top-tier Dryer Duct Cleaning services. We employ advanced exterior reverse blow air cleaning, utilizing industry-standard vent cleaning hoses tailored to your building’s needs. With capabilities to safely reach up to thirty feet into duct systems, we ensure the thorough removal of lint accumulations and other obstructing debris.",
+          "Annually in North America, a staggering 17,000 fires are linked to unkempt dryer vent ducts. Prioritize this service not just for a vital fire prevention measure but also to avert potential water leak expenses. Blocked vents that fail to vent out the damp air eventually condense moisture, leading to rusting and, ultimately, water leakage. The repair costs from damage in just one unit of a multi-dwelling structure, like a high-rise, can equate to what you might have spent on cleaning the ducts for the entire building. Opt for prevention and ensure long-term savings."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/aboutSec3.jpg",
+        "sub_heading": "WHAT WE DO",
+        "heading": "ANCHOR INSPECTION",
+        "paragraphs": [
+          "For those duct systems in Vancouver and surrounding areas that have seen years of neglect and can’t be accessed solely from the outside, our specialized Combination Clean comes to the rescue. This thorough method combines the force of an interior high-powered air-stream with the expertise of our technicians externally employing a reverse blow, ensuring the tract is impeccably clear. This dual-approach is our go-to for residential homes across Surrey, Coquitlam, Burnaby, and beyond, guaranteeing safety and efficiency in every service call."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "photo_reporting": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "PHOTO REPORTING"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "WHAT IS IT",
+        "heading": "PHOTO REPORTING CLEANING SOLUTIONS IN METRO VANCOUVER",
+        "paragraphs": [
+          "EXPERIENCE THE CLARITY WINDOW PHOTO REPORTING",
+          "Whether it’s a towering high-rise in downtown Vancouver or a quaint low-rise in North Vancouver, our window cleaning services cater to structures of every height. Utilizing traditional methods, we champion the unbeatable combination of soap, water, and a squeegee, ensuring cost-effectiveness while upholding unmatched quality. For architecturally complex structures in places like Surrey and Coquitlam, our advanced filtration system coupled with a water-fed pole emerges as the optimal solution. Buildings with accumulated grime in West Vancouver and Burnaby will particularly benefit from our water-fed pole technique, ensuring not just the glass but also the frames are spotlessly clean. We’re here to discuss the best approach tailored to your needs."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/imgtop.png",
+        "sub_heading": "WHAT IS IT",
+        "heading": "PHOTO REPORTING POLE CLEANING",
+        "paragraphs": [
+          "Venture beyond the conventional with our state-of-the-art waterfed pole cleaning services. While many may rely solely on standard soap-water techniques, we integrate the latest filtration systems to ensure crystal clear results across Vancouver, North Vancouver, Surrey, and beyond. Even the pristine waters of Vancouver can sometimes leave undesired residues. That’s where our filtration system shines, producing results that often surpass hand cleaning.",
+          "While many contractors might offer waterfed pole cleaning as a quick, discounted solution, our use of specialized filtration ensures unparalleled brilliance. Ideal for residences in Coquitlam, Burnaby, and West Vancouver, our waterfed pole system is the gold standard for low-rise structures."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ],
+    "stand_by_rescue": [
+      {
+        "id": "sec1",
+        "image": "/contact.jpg",
+        "heading": "STAND-BY RESCUE"
+      },
+      {
+        "id": "sec2",
+        "image": "/imgtop.png",
+        "sub_heading": "YOUR SAFETY, OUR PRIORITY",
+        "heading": "STAND-BY RESCUE CLEANING SERVICES IN METRO VANCOUVER",
+        "paragraphs": [
+          "REVITALIZE YOUR PROPERTY WITH STAND-BY RESCUE",
+          "Ensure the safety and efficiency of your home or business in Vancouver, North Vancouver, West Vancouver, Surrey, Coquitlam, and Burnaby with our top-tier Dryer Duct Cleaning services. We employ advanced exterior reverse blow air cleaning, utilizing industry-standard vent cleaning hoses tailored to your building’s needs. With capabilities to safely reach up to thirty feet into duct systems, we ensure the thorough removal of lint accumulations and other obstructing debris.",
+          "Annually in North America, a staggering 17,000 fires are linked to unkempt dryer vent ducts. Prioritize this service not just for a vital fire prevention measure but also to avert potential water leak expenses. Blocked vents that fail to vent out the damp air eventually condense moisture, leading to rusting and, ultimately, water leakage. The repair costs from damage in just one unit of a multi-dwelling structure, like a high-rise, can equate to what you might have spent on cleaning the ducts for the entire building. Opt for prevention and ensure long-term savings."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      },
+      {
+        "id": "sec3",
+        "image": "/aboutSec3.jpg",
+        "sub_heading": "WHAT WE DO",
+        "heading": "STAND-BY RESCUE",
+        "paragraphs": [
+          "For those duct systems in Vancouver and surrounding areas that have seen years of neglect and can’t be accessed solely from the outside, our specialized Combination Clean comes to the rescue. This thorough method combines the force of an interior high-powered air-stream with the expertise of our technicians externally employing a reverse blow, ensuring the tract is impeccably clear.",
+          "This dual-approach is our go-to for residential homes across Surrey, Coquitlam, Burnaby, and beyond, guaranteeing safety and efficiency in every service call."
+        ],
+        "cta_text": "LEARN MORE",
+        "cta_link": "/services/Rope"
+      }
+    ]
+  }
+}
